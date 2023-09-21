@@ -29,5 +29,9 @@
 	],
 	"bugs": {
 		"url": "https://github.com/cryptohub-digital/countries-divisions/issues"
-	}
+	},
+  "files": [
+    "index.js",
+    "countries-divisions.json"
+  ]
 }

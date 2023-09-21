@@ -13,8 +13,6 @@ jobs:
         with:
           node-version: '14.x'
           registry-url: 'https://registry.npmjs.org'
-      - name: Install & Build 🔧
-        run: npm i && npm run build
       - name: Publish package on NPM 📦
         run: npm publish --access public
         env:
