@@ -1,0 +1,846 @@
+{
+  "AD": {
+    "type_en": "Parish",
+    "type_local": "Parròquia"
+  },
+  "AE": {
+    "type_en": "Emirate",
+    "type_local": "إمارة"
+  },
+  "AF": {
+    "type_en": "Province",
+    "type_local": "ولایت"
+  },
+  "AG": {
+    "type_en": "Parish",
+    "type_local": "Parish"
+  },
+  "AL": {
+    "type_en": "County",
+    "type_local": "Qark"
+  },
+  "AM": {
+    "type_en": "Province",
+    "type_local": "Մարզ"
+  },
+  "AO": {
+    "type_en": "Province",
+    "type_local": "Província"
+  },
+  "AR": {
+    "type_en": "Province",
+    "type_local": "Provincia"
+  },
+  "AS": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "AT": {
+    "type_en": "State",
+    "type_local": "Bundesland"
+  },
+  "AU": {
+    "type_en": "State/Territory",
+    "type_local": "State/Territory"
+  },
+  "AZ": {
+    "type_en": "District",
+    "type_local": "Rayon"
+  },
+  "BA": {
+    "type_en": "Entity",
+    "type_local": "Entitet/Ентитет"
+  },
+  "BD": {
+    "type_en": "District",
+    "type_local": "জেলা"
+  },
+  "BE": {
+    "type_en": "Region/Province",
+    "type_local": "Région/Provincie"
+  },
+  "BF": {
+    "type_en": "Region",
+    "type_local": "Région"
+  },
+  "BG": {
+    "type_en": "Province",
+    "type_local": "Област"
+  },
+  "BH": {
+    "type_en": "Governorate",
+    "type_local": "محافظة"
+  },
+  "BI": {
+    "type_en": "Province",
+    "type_local": "Intara"
+  },
+  "BJ": {
+    "type_en": "Department",
+    "type_local": "Département"
+  },
+  "BN": {
+    "type_en": "District",
+    "type_local": "Daerah"
+  },
+  "BO": {
+    "type_en": "Department",
+    "type_local": "Departamento"
+  },
+  "BR": {
+    "type_en": "State",
+    "type_local": "Estado"
+  },
+  "BS": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "BT": {
+    "type_en": "District",
+    "type_local": "རྫོང་ཁག"
+  },
+  "BW": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "BY": {
+    "type_en": "Region",
+    "type_local": "Область"
+  },
+  "BZ": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "CA": {
+    "type_en": "Province/Territory",
+    "type_local": "Province/Territoire"
+  },
+  "CF": {
+    "type_en": "Prefecture",
+    "type_local": "Préfecture"
+  },
+  "CG": {
+    "type_en": "Department",
+    "type_local": "Département"
+  },
+  "CH": {
+    "type_en": "Canton",
+    "type_local": "Kanton/Canton"
+  },
+  "CI": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "CK": {
+    "type_en": "Island",
+    "type_local": "Island"
+  },
+  "CL": {
+    "type_en": "Region",
+    "type_local": "Región"
+  },
+  "CM": {
+    "type_en": "Region",
+    "type_local": "Région"
+  },
+  "CN": {
+    "type_en": "Province",
+    "type_local": "省"
+  },
+  "CO": {
+    "type_en": "Department",
+    "type_local": "Departamento"
+  },
+  "CR": {
+    "type_en": "Province",
+    "type_local": "Provincia"
+  },
+  "CU": {
+    "type_en": "Province",
+    "type_local": "Provincia"
+  },
+  "CV": {
+    "type_en": "Municipality",
+    "type_local": "Concelho"
+  },
+  "CY": {
+    "type_en": "District",
+    "type_local": "Επαρχία"
+  },
+  "CZ": {
+    "type_en": "Region",
+    "type_local": "Kraj"
+  },
+  "DE": {
+    "type_en": "State",
+    "type_local": "Bundesland"
+  },
+  "DJ": {
+    "type_en": "Region",
+    "type_local": "Région"
+  },
+  "DK": {
+    "type_en": "Region",
+    "type_local": "Region"
+  },
+  "DM": {
+    "type_en": "Parish",
+    "type_local": "Parish"
+  },
+  "DO": {
+    "type_en": "Province",
+    "type_local": "Provincia"
+  },
+  "DZ": {
+    "type_en": "Province",
+    "type_local": "Wilaya"
+  },
+  "EC": {
+    "type_en": "Province",
+    "type_local": "Provincia"
+  },
+  "EE": {
+    "type_en": "County",
+    "type_local": "Maakond"
+  },
+  "EG": {
+    "type_en": "Governorate",
+    "type_local": "محافظة"
+  },
+  "EH": {
+    "type_en": "Province",
+    "type_local": "Provincia"
+  },
+  "ER": {
+    "type_en": "Region",
+    "type_local": "Zoba"
+  },
+  "ES": {
+    "type_en": "Autonomous Community",
+    "type_local": "Comunidad Autónoma"
+  },
+  "ET": {
+    "type_en": "Region",
+    "type_local": "ክልል"
+  },
+  "FI": {
+    "type_en": "Region",
+    "type_local": "Maakunta/Län"
+  },
+  "FJ": {
+    "type_en": "Division",
+    "type_local": "Division"
+  },
+  "FM": {
+    "type_en": "State",
+    "type_local": "State"
+  },
+  "FO": {
+    "type_en": "Municipality",
+    "type_local": "Kommuna"
+  },
+  "FR": {
+    "type_en": "Region",
+    "type_local": "Région"
+  },
+  "GA": {
+    "type_en": "Province",
+    "type_local": "Province"
+  },
+  "GB": {
+    "type_en": "Country/Region",
+    "type_local": "Country/Region"
+  },
+  "GD": {
+    "type_en": "Parish",
+    "type_local": "Parish"
+  },
+  "GE": {
+    "type_en": "Region",
+    "type_local": "მხარე"
+  },
+  "GF": {
+    "type_en": "Overseas Region",
+    "type_local": "Région d'outre-mer"
+  },
+  "GG": {
+    "type_en": "Parish",
+    "type_local": "Paroisse"
+  },
+  "GH": {
+    "type_en": "Region",
+    "type_local": "Region"
+  },
+  "GL": {
+    "type_en": "Municipality",
+    "type_local": "Kommune"
+  },
+  "GM": {
+    "type_en": "Division",
+    "type_local": "Division"
+  },
+  "GN": {
+    "type_en": "Region",
+    "type_local": "Région"
+  },
+  "GP": {
+    "type_en": "Overseas Region",
+    "type_local": "Région d'outre-mer"
+  },
+  "GQ": {
+    "type_en": "Province",
+    "type_local": "Provincia"
+  },
+  "GR": {
+    "type_en": "Region",
+    "type_local": "Περιφέρεια"
+  },
+  "GU": {
+    "type_en": "Village",
+    "type_local": "Village"
+  },
+  "GW": {
+    "type_en": "Region",
+    "type_local": "Região"
+  },
+  "GY": {
+    "type_en": "Region",
+    "type_local": "Region"
+  },
+  "HR": {
+    "type_en": "County",
+    "type_local": "Županija"
+  },
+  "HT": {
+    "type_en": "Department",
+    "type_local": "Département"
+  },
+  "HU": {
+    "type_en": "County",
+    "type_local": "Megye"
+  },
+  "ID": {
+    "type_en": "Province",
+    "type_local": "Provinsi"
+  },
+  "IE": {
+    "type_en": "County",
+    "type_local": "Contae"
+  },
+  "IL": {
+    "type_en": "District",
+    "type_local": "מחוז"
+  },
+  "IM": {
+    "type_en": "Parish",
+    "type_local": "Parish"
+  },
+  "IN": {
+    "type_en": "State/Union Territory",
+    "type_local": "राज्य/संघ प्रदेश"
+  },
+  "IQ": {
+    "type_en": "Governorate",
+    "type_local": "محافظة"
+  },
+  "IR": {
+    "type_en": "Province",
+    "type_local": "استان"
+  },
+  "IS": {
+    "type_en": "Region",
+    "type_local": "Svæði"
+  },
+  "IT": {
+    "type_en": "Region",
+    "type_local": "Regione"
+  },
+  "JE": {
+    "type_en": "Parish",
+    "type_local": "Paroisse"
+  },
+  "JM": {
+    "type_en": "Parish",
+    "type_local": "Parish"
+  },
+  "JO": {
+    "type_en": "Governorate",
+    "type_local": "محافظة"
+  },
+  "JP": {
+    "type_en": "Prefecture",
+    "type_local": "都道府県"
+  },
+  "KE": {
+    "type_en": "County",
+    "type_local": "County"
+  },
+  "KG": {
+    "type_en": "Region",
+    "type_local": "Область"
+  },
+  "KH": {
+    "type_en": "Province",
+    "type_local": "ខេត្ត"
+  },
+  "KI": {
+    "type_en": "Island",
+    "type_local": "Island"
+  },
+  "KN": {
+    "type_en": "Parish",
+    "type_local": "Parish"
+  },
+  "KP": {
+    "type_en": "Province",
+    "type_local": "도"
+  },
+  "KR": {
+    "type_en": "Province",
+    "type_local": "도"
+  },
+  "KW": {
+    "type_en": "Governorate",
+    "type_local": "محافظة"
+  },
+  "KZ": {
+    "type_en": "Region",
+    "type_local": "Область"
+  },
+  "LA": {
+    "type_en": "Province",
+    "type_local": "ແຂວງ"
+  },
+  "LB": {
+    "type_en": "Governorate",
+    "type_local": "محافظة"
+  },
+  "LC": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "LI": {
+    "type_en": "Municipality",
+    "type_local": "Gemeinde"
+  },
+  "LK": {
+    "type_en": "Province",
+    "type_local": "පළාත"
+  },
+  "LR": {
+    "type_en": "County",
+    "type_local": "County"
+  },
+  "LS": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "LT": {
+    "type_en": "County",
+    "type_local": "Apskritis"
+  },
+  "LU": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "LV": {
+    "type_en": "Municipality",
+    "type_local": "Novads"
+  },
+  "LY": {
+    "type_en": "District",
+    "type_local": "شعبية"
+  },
+  "MA": {
+    "type_en": "Region",
+    "type_local": "جهة"
+  },
+  "MC": {
+    "type_en": "Ward",
+    "type_local": "Quartier"
+  },
+  "MD": {
+    "type_en": "District",
+    "type_local": "Raion"
+  },
+  "ME": {
+    "type_en": "Municipality",
+    "type_local": "Opština/Општина"
+  },
+  "MG": {
+    "type_en": "Region",
+    "type_local": "Faritra"
+  },
+  "MH": {
+    "type_en": "Atoll",
+    "type_local": "Atoll"
+  },
+  "MK": {
+    "type_en": "Municipality",
+    "type_local": "Општина"
+  },
+  "ML": {
+    "type_en": "Region",
+    "type_local": "Région"
+  },
+  "MM": {
+    "type_en": "Region/State",
+    "type_local": "တိုင်းဒေသကြီး/ပြည်နယ်"
+  },
+  "MN": {
+    "type_en": "Province",
+    "type_local": "Аймаг"
+  },
+  "MP": {
+    "type_en": "Municipality",
+    "type_local": "Municipality"
+  },
+  "MQ": {
+    "type_en": "Overseas Region",
+    "type_local": "Région d'outre-mer"
+  },
+  "MR": {
+    "type_en": "Region",
+    "type_local": "Région"
+  },
+  "MS": {
+    "type_en": "Parish",
+    "type_local": "Parish"
+  },
+  "MT": {
+    "type_en": "Local Council",
+    "type_local": "Kunsill Lokali"
+  },
+  "MU": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "MV": {
+    "type_en": "Atoll",
+    "type_local": "އަތޮޅު"
+  },
+  "MW": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "MX": {
+    "type_en": "State",
+    "type_local": "Estado"
+  },
+  "MY": {
+    "type_en": "State",
+    "type_local": "Negeri"
+  },
+  "MZ": {
+    "type_en": "Province",
+    "type_local": "Província"
+  },
+  "NA": {
+    "type_en": "Region",
+    "type_local": "Region"
+  },
+  "NC": {
+    "type_en": "Province",
+    "type_local": "Province"
+  },
+  "NE": {
+    "type_en": "Region",
+    "type_local": "Région"
+  },
+  "NG": {
+    "type_en": "State",
+    "type_local": "State"
+  },
+  "NI": {
+    "type_en": "Department",
+    "type_local": "Departamento"
+  },
+  "NL": {
+    "type_en": "Province",
+    "type_local": "Provincie"
+  },
+  "NO": {
+    "type_en": "County",
+    "type_local": "Fylke"
+  },
+  "NP": {
+    "type_en": "Province",
+    "type_local": "प्रदेश"
+  },
+  "NR": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "NU": {
+    "type_en": "Village",
+    "type_local": "Village"
+  },
+  "NZ": {
+    "type_en": "Region",
+    "type_local": "Region"
+  },
+  "OM": {
+    "type_en": "Governorate",
+    "type_local": "محافظة"
+  },
+  "PA": {
+    "type_en": "Province",
+    "type_local": "Provincia"
+  },
+  "PE": {
+    "type_en": "Region",
+    "type_local": "Región"
+  },
+  "PF": {
+    "type_en": "Commune",
+    "type_local": "Commune"
+  },
+  "PG": {
+    "type_en": "Province",
+    "type_local": "Province"
+  },
+  "PH": {
+    "type_en": "Region/Province",
+    "type_local": "Rehiyon/Lalawigan"
+  },
+  "PK": {
+    "type_en": "Province",
+    "type_local": "صوبہ"
+  },
+  "PL": {
+    "type_en": "Voivodeship",
+    "type_local": "Województwo"
+  },
+  "PN": {
+    "type_en": "Island",
+    "type_local": "Island"
+  },
+  "PR": {
+    "type_en": "Municipality",
+    "type_local": "Municipio"
+  },
+  "PS": {
+    "type_en": "Governorate",
+    "type_local": "محافظة"
+  },
+  "PT": {
+    "type_en": "District",
+    "type_local": "Distrito"
+  },
+  "PW": {
+    "type_en": "State",
+    "type_local": "State"
+  },
+  "PY": {
+    "type_en": "Department",
+    "type_local": "Departamento"
+  },
+  "QA": {
+    "type_en": "Municipality",
+    "type_local": "بلدية"
+  },
+  "RO": {
+    "type_en": "County",
+    "type_local": "Județ"
+  },
+  "RS": {
+    "type_en": "District",
+    "type_local": "Okrug"
+  },
+  "RU": {
+    "type_en": "Oblast",
+    "type_local": "Область"
+  },
+  "RW": {
+    "type_en": "District",
+    "type_local": "Akarere"
+  },
+  "SA": {
+    "type_en": "Province",
+    "type_local": "منطقة"
+  },
+  "SB": {
+    "type_en": "Province",
+    "type_local": "Province"
+  },
+  "SC": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "SD": {
+    "type_en": "State",
+    "type_local": "ولاية"
+  },
+  "SE": {
+    "type_en": "County",
+    "type_local": "Län"
+  },
+  "SG": {
+    "type_en": "Region",
+    "type_local": "Region"
+  },
+  "SK": {
+    "type_en": "Region",
+    "type_local": "Kraj"
+  },
+  "SL": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "SM": {
+    "type_en": "Municipality",
+    "type_local": "Castello"
+  },
+  "SN": {
+    "type_en": "Region",
+    "type_local": "Région"
+  },
+  "SO": {
+    "type_en": "Region",
+    "type_local": "Gobolka"
+  },
+  "SR": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "SS": {
+    "type_en": "State",
+    "type_local": "State"
+  },
+  "ST": {
+    "type_en": "District",
+    "type_local": "Distrito"
+  },
+  "SV": {
+    "type_en": "Department",
+    "type_local": "Departamento"
+  },
+  "SY": {
+    "type_en": "Governorate",
+    "type_local": "محافظة"
+  },
+  "SZ": {
+    "type_en": "Region",
+    "type_local": "Region"
+  },
+  "TC": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "TD": {
+    "type_en": "Region",
+    "type_local": "Région"
+  },
+  "TG": {
+    "type_en": "Region",
+    "type_local": "Région"
+  },
+  "TH": {
+    "type_en": "Province",
+    "type_local": "จังหวัด"
+  },
+  "TJ": {
+    "type_en": "Region",
+    "type_local": "Вилоят"
+  },
+  "TK": {
+    "type_en": "Atoll",
+    "type_local": "Atoll"
+  },
+  "TM": {
+    "type_en": "Province",
+    "type_local": "Welaýat"
+  },
+  "TN": {
+    "type_en": "Governorate",
+    "type_local": "ولاية"
+  },
+  "TO": {
+    "type_en": "Division",
+    "type_local": "Division"
+  },
+  "TR": {
+    "type_en": "Province",
+    "type_local": "İl"
+  },
+  "TT": {
+    "type_en": "Region",
+    "type_local": "Region"
+  },
+  "TV": {
+    "type_en": "Island",
+    "type_local": "Island"
+  },
+  "TZ": {
+    "type_en": "Region",
+    "type_local": "Mkoa"
+  },
+  "UA": {
+    "type_en": "Oblast",
+    "type_local": "Область"
+  },
+  "UG": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "US": {
+    "type_en": "State",
+    "type_local": "State"
+  },
+  "UY": {
+    "type_en": "Department",
+    "type_local": "Departamento"
+  },
+  "UZ": {
+    "type_en": "Region",
+    "type_local": "Viloyat"
+  },
+  "VE": {
+    "type_en": "State",
+    "type_local": "Estado"
+  },
+  "VG": {
+    "type_en": "Island",
+    "type_local": "Island"
+  },
+  "VI": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "VN": {
+    "type_en": "Province",
+    "type_local": "Tỉnh"
+  },
+  "VU": {
+    "type_en": "Province",
+    "type_local": "Province"
+  },
+  "WF": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "WS": {
+    "type_en": "District",
+    "type_local": "District"
+  },
+  "XK": {
+    "type_en": "Municipality",
+    "type_local": "Komunë/Komuna"
+  },
+  "YE": {
+    "type_en": "Governorate",
+    "type_local": "محافظة"
+  },
+  "ZA": {
+    "type_en": "Province",
+    "type_local": "Provinsie/Province"
+  },
+  "ZM": {
+    "type_en": "Province",
+    "type_local": "Province"
+  },
+  "ZW": {
+    "type_en": "Province",
+    "type_local": "Province"
+  }
+}
