@@ -7,7 +7,7 @@ A comprehensive JSON module containing primary administrative divisions for coun
 To use this module in your project, you can install it via npm:
 
 ```bash
-npm install @cryptohub/countries-divisions
+npm install @blockchainhub/countries-divisions
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install @cryptohub/countries-divisions
 Once installed, you can `require` it in your JavaScript/Node.js project:
 
 ```javascript
-const countriesDivisions = require('@cryptohub/countries-divisions');
+const countriesDivisions = require('@blockchainhub/countries-divisions');
 console.log(countriesDivisions['US']); // Example output: { type_en: "State", type_local: "State" }
 ```
 
@@ -57,7 +57,7 @@ The following countries are excluded from the list due to lack of divisions:
 
 ## License
 
-This project is licensed under the [CORE License](https://github.com/cryptohub-digital/core-license/blob/master/LICENSE). Please see the [LICENSE](https://github.com/cryptohub-digital/core-license/blob/master/LICENSE) file for more details.
+This project is licensed under the [CORE License](https://github.com/bchainhub/core-license/blob/master/LICENSE). Please see the [LICENSE](https://github.com/bchainhub/core-license/blob/master/LICENSE) file for more details.
 
 ## Contributing
 
